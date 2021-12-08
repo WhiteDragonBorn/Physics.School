@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "5c7d758a90fd0770",
+    "type": "split",
+    "children": [
+      {
+        "id": "548b6f44e2e506d3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Physics.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3138775af9b7a09d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c89017d1ad61a7f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad67fe7c2e6b610d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cf738e8318998489",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cbcaf3d3bfc2a963",
+    "type": "split",
+    "children": [
+      {
+        "id": "29ea0223f8dd2aa4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3caa5e4858c3a538",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Physics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "548b6f44e2e506d3",
+  "lastOpenFiles": [
+    "Physics.md"
+  ]
+}
