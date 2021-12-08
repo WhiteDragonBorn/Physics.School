@@ -12,7 +12,20 @@
             "file": "Physics.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "fb2d2a21d3e399bc"
+      },
+      {
+        "id": "fdf9a8fadcd55f66",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Physics.md",
+            "mode": "preview"
+          }
+        },
+        "group": "fb2d2a21d3e399bc"
       }
     ],
     "direction": "vertical"
