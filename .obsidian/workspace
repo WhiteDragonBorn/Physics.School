@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "548b6f44e2e506d3",
+        "id": "ba99eeca0fe7bf20",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -13,10 +13,10 @@
             "mode": "source"
           }
         },
-        "group": "fb2d2a21d3e399bc"
+        "group": "629bf361e71648f4"
       },
       {
-        "id": "fdf9a8fadcd55f66",
+        "id": "778e79cef038609c",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -25,7 +25,7 @@
             "mode": "preview"
           }
         },
-        "group": "fb2d2a21d3e399bc"
+        "group": "629bf361e71648f4"
       }
     ],
     "direction": "vertical"
@@ -99,8 +99,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "548b6f44e2e506d3",
+  "active": "ba99eeca0fe7bf20",
   "lastOpenFiles": [
-    "Physics.md"
+    "Physics.md",
+    "Images/Pasted image 20211208200335.png",
+    "Images/Pasted image 20211209194128.png",
+    "README.md",
+    "centerimg.css.md",
+    "Images/Pasted image 20211208193733.png",
+    "Images/Pasted image 20211208193733 1.png",
+    "20211208193733.png.md"
   ]
 }
